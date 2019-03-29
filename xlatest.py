@@ -6,6 +6,7 @@ import numpy as np
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
+import gc
 
 run_opts = tf.RunOptions(report_tensor_allocations_upon_oom = True)
 
