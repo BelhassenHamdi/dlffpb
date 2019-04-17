@@ -1,0 +1,54 @@
+INFO:root:epoch num: 10, execution time [0.29793620109558105]
+INFO:root:epoch num: 15, execution time [0.29793620109558105, 0.40274810791015625]
+INFO:root:epoch num: 20, execution time [0.29793620109558105, 0.40274810791015625, 0.5525214672088623]
+INFO:root:epoch num: 150, execution time [0.29793620109558105, 0.40274810791015625, 0.5525214672088623, 4.174760818481445]
+INFO:root:epoch num: 300, execution time [0.29793620109558105, 0.40274810791015625, 0.5525214672088623, 4.174760818481445, 8.664418697357178]
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.axes._base:update_title_pos
+INFO:root:epoch num: 10, execution time [2.159029722213745]
+INFO:root:epoch num: 15, execution time [2.159029722213745, 0.47785186767578125]
+INFO:root:epoch num: 20, execution time [2.159029722213745, 0.47785186767578125, 0.6214673519134521]
+INFO:root:epoch num: 150, execution time [2.159029722213745, 0.47785186767578125, 0.6214673519134521, 4.2402215003967285]
+INFO:root:epoch num: 300, execution time [2.159029722213745, 0.47785186767578125, 0.6214673519134521, 4.2402215003967285, 8.586771965026855]
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.axes._base:update_title_pos
+INFO:root:epoch num: 10, execution time [0.015208005905151367]
+INFO:root:epoch num: 15, execution time [0.015208005905151367, 0.002933979034423828]
+INFO:root:epoch num: 20, execution time [0.015208005905151367, 0.002933979034423828, 0.0030574798583984375]
+INFO:root:epoch num: 150, execution time [0.015208005905151367, 0.002933979034423828, 0.0030574798583984375, 0.9784791469573975]
+INFO:root:epoch num: 300, execution time [0.015208005905151367, 0.002933979034423828, 0.0030574798583984375, 0.9784791469573975, 5.040735483169556]
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.axes._base:update_title_pos
+INFO:root:epoch num: 10, execution time [0.27433085441589355]
+INFO:root:epoch num: 15, execution time [0.27433085441589355, 0.40555644035339355]
+INFO:root:epoch num: 20, execution time [0.27433085441589355, 0.40555644035339355, 0.542696475982666]
+INFO:root:epoch num: 150, execution time [0.27433085441589355, 0.40555644035339355, 0.542696475982666, 4.225159645080566]
+INFO:root:epoch num: 300, execution time [0.27433085441589355, 0.40555644035339355, 0.542696475982666, 4.225159645080566, 8.381457328796387]
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.axes._base:update_title_pos
+INFO:root:epoch num: 10, execution time [0.3103973865509033]
+INFO:root:epoch num: 15, execution time [0.3103973865509033, 0.40398097038269043]
+INFO:root:epoch num: 20, execution time [0.3103973865509033, 0.40398097038269043, 0.5547609329223633]
+INFO:root:epoch num: 150, execution time [0.3103973865509033, 0.40398097038269043, 0.5547609329223633, 4.183410406112671]
+INFO:root:epoch num: 300, execution time [0.3103973865509033, 0.40398097038269043, 0.5547609329223633, 4.183410406112671, 8.987397193908691]
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.axes._base:update_title_pos
+INFO:root:epoch num: 10, execution time [0.3031032085418701]
+INFO:root:epoch num: 15, execution time [0.3031032085418701, 0.4002351760864258]
+INFO:root:epoch num: 20, execution time [0.3031032085418701, 0.4002351760864258, 0.5395443439483643]
+INFO:root:epoch num: 150, execution time [0.3031032085418701, 0.4002351760864258, 0.5395443439483643, 4.156526327133179]
+INFO:root:epoch num: 300, execution time [0.3031032085418701, 0.4002351760864258, 0.5395443439483643, 4.156526327133179, 8.573962211608887]
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/usr/local/lib/python3.5/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.axes._base:update_title_pos
