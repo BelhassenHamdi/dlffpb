@@ -7,11 +7,6 @@ The early and widely known baselines will be results from cifar 10 cifar 100 mni
 to the project soon
 '''
 
-import tensorflow as tf
-mnist = tf.keras.datasets.mnist
-(x_train, y_train),(x_test, y_test) = mnist.load_data()
-
-
 # specify dataset
 # specify parameters
 
@@ -22,5 +17,24 @@ mnist = tf.keras.datasets.mnist
 # build result logger
 # build model saver
 # build benchmarker tool
+# once this file is complete we can add a new file which is more generic and which could be lower level than this one
 
 # start with a mockup of the pipeline in the same file
+
+import tensorflow as tf
+from DeepModels.tf_models import SimpleCnn
+from Benchmark import ProcessingTime 
+from Configs import fast_config
+from DataLoader import cifar10
+
+Benchmark = True # use parser to parse this information from outside
+
+if if __name__ == "__main__":
+    config = fast_config
+    model = SimpleCnn()
+    model.train()
+
+
+mnist = tf.keras.datasets.mnist
+(x_train, y_train),(x_test, y_test) = mnist.load_data()
+

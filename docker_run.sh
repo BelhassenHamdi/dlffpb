@@ -18,6 +18,8 @@ tensorflow_version=$2
 
 if [ $tensorflow_version == 1 ]; then
     image="tensorflow/tensorflow:1.13.1-gpu-py3"
+elif [ $tensorflow_version == 3 ]; then
+    image="ai_platform:latest"
 else
     image="tensorflow/tensorflow:latest-gpu-py3"
 fi
@@ -28,6 +30,8 @@ nvidia-docker run -it \
     --rm \
     -u $(id -u):$(id -g) \
     --env="DISPLAY" \
+    --privileged \
+    -v /tmp/.X11-unix:/tmp/.X11-unix \
     --workdir="/home/$USER" \
     --volume="/home/$USER:/home/$USER" \
     --device /dev/video0 \

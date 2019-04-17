@@ -20,3 +20,6 @@ https://arxiv.org/pdf/1512.03385.pdf
 https://ai.googleblog.com/2019/03/introducing-gpipe-open-source-library.html
 http://download.tensorflow.org/paper/whitepaper2015.pdf
 https://hanxiao.github.io/2017/12/21/Use-HParams-and-YAML-to-Better-Manage-Hyperparameters-in-Tensorflow/
+https://dominikschmidt.xyz/index.html
+https://hanxiao.github.io/2017/12/21/Use-HParams-and-YAML-to-Better-Manage-Hyperparameters-in-Tensorflow/
+https://www.kdnuggets.com/2017/05/how-not-program-tensorflow-graph.html

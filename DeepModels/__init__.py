@@ -1,1 +1,1 @@
-name = "deepModels"
+name = "DeepModels"

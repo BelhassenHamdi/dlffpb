@@ -12,6 +12,6 @@ nvidia-docker run -it \
     --volume="/tmp/.X11-unix:/tmp/.X11-unix:rw" \
     --device /dev/video0 \
     --network host \
-    --name ai \
-    tensorflow/tensorflow:latest-gpu-py3 \
+    --name opencv \
+    jjanzic/docker-python3-opencv \
     bash
